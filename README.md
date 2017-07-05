@@ -2,7 +2,7 @@
 项目：
 
 
-![page]((https://github.com/qiqiseven/SRS/blob/master/%E5%9B%BE%E7%89%87/%E9%A1%B9%E7%9B%AE.PNG)
+![page](https://github.com/qiqiseven/SRS/blob/master/%E5%9B%BE%E7%89%87/%E9%A1%B9%E7%9B%AE.PNG)
 类图:
 
 
